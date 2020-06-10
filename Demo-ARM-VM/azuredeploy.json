@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "virtualMachineAdminUserName": {
-      "defaultValue": "anandh",
+      "defaultValue": "admin",
       "type": "string",
       "metadata": {
         "description": "Administrator Username for the local admin account"
